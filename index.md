@@ -17,14 +17,14 @@ Text ...
 XXX
 
 
-### Here is an unordered list:
+### Projects:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# Data Science Portfolio
 
-### And an ordered list:
+## Machine learning
+
+### Fraud Detection
+
 
 1.  Item one
 1.  Item two
